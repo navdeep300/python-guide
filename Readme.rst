@@ -1,7 +1,7 @@
 Hitchhiker's Guide to Python
 ============================
 
-**Python Best Practices Guidebook**
+**Python Best Practices Guidebook*
 
 -----------
 
@@ -14,7 +14,7 @@ handbook to the installation, configuration, and usage of Python on a daily
 basis.
 
 
-Topics include:
+Topics include
 
 - Platform- and version-specific installations
 - Py2app, Py2exe, bbfreeze, pyInstaller
